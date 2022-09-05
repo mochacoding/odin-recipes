@@ -1,0 +1,16 @@
+h1 {
+    background-color: #FFC300;
+    font-weight: 800;
+    color: #00BBFF;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+a {
+    background-color: #00BBFF;
+}
+
+li, a {
+    font-family: Impact, Geneva, Tahoma, sans-serif;
+    color:#FFC300;
+}
